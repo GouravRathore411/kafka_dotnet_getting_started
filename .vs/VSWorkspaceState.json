@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\consumer\\bin",
+    "\\consumer\\bin\\Release",
+    "\\consumer\\bin\\Release\\netcoreapp6.0",
+    "\\consumer\\obj",
+    "\\consumer\\obj\\Debug",
+    "\\consumer\\obj\\Debug\\netcoreapp6.0",
+    "\\producer\\bin",
+    "\\producer\\bin\\Debug",
+    "\\producer\\bin\\Debug\\netcoreapp6.0"
+  ],
+  "SelectedNode": "\\getting-started.properties",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,5 @@
+E:\kafka-dotnet-getting-started\schema\obj\Release\net8.0\schema.csproj.AssemblyReference.cache
+E:\kafka-dotnet-getting-started\schema\obj\Release\net8.0\schema.GeneratedMSBuildEditorConfig.editorconfig
+E:\kafka-dotnet-getting-started\schema\obj\Release\net8.0\schema.AssemblyInfoInputs.cache
+E:\kafka-dotnet-getting-started\schema\obj\Release\net8.0\schema.AssemblyInfo.cs
+E:\kafka-dotnet-getting-started\schema\obj\Release\net8.0\schema.csproj.CoreCompileInputs.cache
